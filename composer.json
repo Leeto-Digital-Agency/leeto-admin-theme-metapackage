@@ -1,0 +1,11 @@
+{
+    "name": "leeto/leeto-admin-theme-metapackage",
+    "description": "Leeto Admin Theme for Magento 2.x",
+    "type": "metapackage",
+    "version": "1.5.0",
+    "license": "OSL-3.0",
+    "require": {
+        "leeto/leeto-admin-theme-module": "^1.0.0",
+        "leeto/leeto-admin-theme": "^1.0.0"
+    }
+}
